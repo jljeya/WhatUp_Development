@@ -1,0 +1,31 @@
+Java 
+j2EE
+HTML
+JSP
+JDBC
+REST
+SPRING BOOT
+SERVLET 
+AGILE AND WATER FALL
+SPRING JPA
+SPRING SECURITY
+ECLIPSE DESIGN PATTERN 
+MY SQL
+JSON
+MAVEN 
+SPRING JWT
+CI/CD PIPELINE-- GIT HUB ERROR SPACE ,
+
+
+
+
+
+JIRa-daily activities.-
+git.-repository link copy branche create pannanum ,pulll request kodukanum appatha main branch ___________-jira base create pannanum. ennoda ....................
+
+
+
+
+
+
+
